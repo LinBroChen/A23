@@ -10,5 +10,7 @@
 - [ ] 3rd thing
 - [ ] 4th thing
 
+'''
+python
 s= "Python syntax highlighting"
 print s    
